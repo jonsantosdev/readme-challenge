@@ -1,36 +1,42 @@
    
   
-    # README.md Generator
+  # adf
 
-    ### Description
-    Automatically creates a README.md file
+  ### Description
+  adf
 
-    ### Table of Contents
-    * Installation
-    * Usage
-    * License
-    * Contributing
-    * Test
-    * Questions
+  ### Table of Contents
+  * Installation
+  * Usage
+  * License
+  * Contributing
+  * Test
+  * Questions
 
-    ## Installation
-    To install, run the following commands:
-    - install
+  ## Installation
+  To install, run the following commands:
+  adf
     
-    ## Usage
-    Please check README.md for more info
+  ## Usage
+  adf
 
-    ## License
-    MIT
+  ## License
+  MIT
+  
+  ## License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  [MIT License](https://opensource.org/licenses/MIT)
+    
 
-    ## Contributing
-    Commits welcome
+  ## Contributing
+  ad
 
-    ## Test
-    - test
+  ## Test
+  df
 
-    ## Questions
-    If you have any questions, please contact me.
-    email: jon@jondev.com
-    github: jondev
+  ## Questions
+  If you have any questions, please contact me.
+  email: da
+  github: adfa
     
