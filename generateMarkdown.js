@@ -48,7 +48,7 @@ function renderLicenseSection(license) {
     return `
   ## License
   ${licenseBadge}
-  
+
   ${licenseLink}
     `;
 }
@@ -91,6 +91,9 @@ function generateMarkdown(data) {
   If you have any questions, please contact me.
   email: ${data.email}
   github: ${data.github}
+
+  ## Link to video submission
+  https://app.screencastify.com/v3/watch/kMzhz15Rc1xuwb0tjcMX
     
 `;
 }
